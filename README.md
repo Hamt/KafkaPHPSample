@@ -25,3 +25,4 @@ php ./Producer.php "minusQuantity: {service_id:22, sku: 15432, qty: 2}"
 
 ### 참고 문헌
 [demyanov.dev](https://demyanov.dev/using-php-apache-kafka)
+[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-centos-7)
